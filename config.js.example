@@ -1,0 +1,5 @@
+module.exports = {
+	prefix: "lc;",
+	token: "TOKEN",
+	admin: ["ADMIN_ID"]
+}
